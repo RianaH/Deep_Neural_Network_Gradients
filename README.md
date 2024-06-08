@@ -7,8 +7,8 @@ This repository contains code for demonstrating the forward and backward passes 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Deep-Neural-Network-Gradient-Calculation-and-Verification.git
-   cd Deep-Neural-Network-Gradient-Calculation-and-Verification
+   git clone https://github.com/RianaH/Deep_Neural_Network_Gradients.git
+   cd Deep_Neural_Network_Gradients
    ```
 
 2. Install the required dependencies:
